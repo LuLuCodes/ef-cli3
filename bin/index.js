@@ -23,7 +23,7 @@ program
 // upgrade 检测更新
 program
   // 声明的命令
-  .command('upgrade')
+  .command('update')
   // 描述信息，在帮助信息时显示
   .description('Check ef-cli3 version.')
   .action(() => {

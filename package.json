@@ -1,6 +1,6 @@
 {
   "name": "ef-cli3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy front 前端脚手架",
   "main": "./bin/index.js",
   "bin": {
