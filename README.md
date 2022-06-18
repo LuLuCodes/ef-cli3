@@ -24,3 +24,5 @@ ef-cli3 create my-project
 
 - easy-front-vite 基于 Vue3、Vite、Pinia、TypeScript 的前端模板工程
 - easy-front-nest-service 基于 nest.js 的后端服务模板工程
+- easy-front-log-service 基于Nest和MongoDB的日志服务
+- easy-front-open-api-service 基于nestjs的Open API Service框架
